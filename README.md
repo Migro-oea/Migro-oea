@@ -50,7 +50,7 @@ To contribute to intelligent robotic systems and secure an international Robotic
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/obafemi-ayo-soremi-6962b2309
+- 💼 LinkedIn: www.linkedin.com/in/obafemiayosoremi
 - 📧 Email: ayosoremiobafemi@gmail.com
 
 > *"Every project is another step toward becoming the engineer I aspire to be."*
