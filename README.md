@@ -44,7 +44,7 @@ I'm building my skills in **ROS 2, Python, Linux, and AI** while documenting my 
 
 ## 🎯 Career Goal
 
-To contribute to intelligent robotic systems and secure an international Robotics Software Engineering internship before graduation.
+To contribute to intelligent robotic systems and secure an international Robotics Software Engineering internship/job before graduation.
 
 ---
 
